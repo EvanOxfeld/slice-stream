@@ -1,4 +1,4 @@
-slice-stream
+slice-stream [![Build Status](https://travis-ci.org/EvanOxfeld/slice-stream.png)](https://travis-ci.org/EvanOxfeld/slice-stream)
 ============
 
 Pipe data through a stream until some fixed length is reached, then callback.
